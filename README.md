@@ -2,4 +2,4 @@
 
 🏠 [Website](https://bit.ly/hyobiis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJAEHYUB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEJAEHYUB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
